@@ -1,0 +1,31 @@
+{
+  "name": "zjtest",
+  "version": "0.0.1",
+  "description": "yeoman generator test developed by zhenjun",
+  "main": "index.js",
+  "bin": {
+    "zjtest": "bin/zjtest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzuwzj/zjtest.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "zzuwzj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzuwzj/zjtest/issues"
+  },
+  "homepage": "https://github.com/zzuwzj/zjtest#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
