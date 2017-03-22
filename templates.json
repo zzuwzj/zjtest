@@ -1,3 +1,1 @@
-{
-  tpl: {}
-}
+{"tpl":{"lxb-app":{"url":"git@gitlab.alibaba-inc.com:zhengjun.wzj/lxb-app-template.git","branch":"master"},"lxb-app2":{"url":"git@gitlab.alibaba-inc.com:lst-fe/m-lxb-personal.git","branch":"master"}}}

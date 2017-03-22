@@ -10,7 +10,7 @@ module.exports = () => {
 
     // 分步接收用户输入的参数
     let tplName = yield prompt('Template name: ')
-    let gitUrl = yield prompt('Git https link: ')
+    let gitUrl = yield prompt('Git repo address (http or ssh): ')
     let branch = yield prompt('Branch: ')
 
     // 避免重复添加
